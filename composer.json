@@ -1,9 +1,9 @@
 {
-    "name":         "uecode/qpush-bundle",
+    "name":         "mouhradBendjillali/qpush-bundle",
     "type":         "library",
     "description":  "Asynchronous processing for Symfony using Push Queues",
     "keywords":     ["qpush", "pub-sub", "aws", "iron mq", "asynch", "push", "symfony", "bundle" ],
-    "homepage":     "https://github.com/uecode/qpush-bundle",
+    "homepage":     "https://github.com/mouhradBendjillali/qpush-bundle",
     "license":      "Apache 2.0",
     "authors":      [
         {
